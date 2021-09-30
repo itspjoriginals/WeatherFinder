@@ -1,0 +1,27 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.custom{
+    background-image: url(/fabian-quintero-UWQP2mh5YJI-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 8%;
+}
+.lead{
+    color: rgb(238, 225, 225);
+    font-weight: bold;
+}
+
+/* footer css starts from here */
+.skills li{
+    list-style: none;
+    text-align: justify;
+}
+.skills a{
+    text-decoration: none;
+}
